@@ -15,6 +15,8 @@
 
     pingu
 
+    neovim
+
     curl
     git
     
