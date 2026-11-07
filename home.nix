@@ -17,6 +17,8 @@
 
     neovim
 
+    btop
+
     curl
     git
     
