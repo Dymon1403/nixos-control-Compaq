@@ -15,6 +15,8 @@
 
     pingu
 
+    ffmpeg  
+
     neovim
 
     btop
