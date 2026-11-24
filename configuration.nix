@@ -111,12 +111,10 @@
     HandleLidSwitch = "ignore";
     HandleLidSwitchExternalPower = "ignore";
   };
-
   
   # ============================================
   # Firmware
   # ============================================
-
 
   hardware.enableRedistributableFirmware = true;
 
@@ -138,7 +136,6 @@
     dates = "weekly";
     options = "--delete-older-than 4d";
   };
-
   
   networking.firewall = {
     enable = true;
@@ -156,9 +153,6 @@
       25565
     ];
   };
-
-
-
 
   # ============================================
   # NixOS version
